@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">calculator</string>
-    <string name="divide">÷</string>
-    <string name="Multiply">x</string>
-    <string name="sub">-</string>
-    <string name="plus">+</string>
-    <string name="rate_us">Rate Us</string>
-    <string name="share">Share</string>
-</resources>
