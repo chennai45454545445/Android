@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="hp_pavillion">Hp Pavillion</string>
+    <string name="textview">TextView</string>
+</resources>
