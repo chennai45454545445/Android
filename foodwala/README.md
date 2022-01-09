@@ -1,5 +1,4 @@
 Food App
-
 ![1](https://user-images.githubusercontent.com/87164152/148677134-29a2eb7d-d1a5-4854-80db-b13d71a8f923.png)
 <-->
 ![2](https://user-images.githubusercontent.com/87164152/148677135-42567f76-7890-4ce6-b046-8500ec1e9575.png)
